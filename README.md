@@ -1,9 +1,9 @@
-# tornadoDemo
+# pyweb
 
 [![Build Status](https://img.shields.io/travis/rust-lang/rust/master.svg)]()
 [![Python](https://img.shields.io/badge/Python-2&3-blue.svg)](https://www.python.org/)
 
-tornadoDemo是一个异步非阻塞的web框架，基于[tornado](https://github.com/tornadoweb/tornado) 框架，封装了定时器、网页代码编辑器，支持热更
+pyweb是一个异步非阻塞的web框架，基于[tornado](https://github.com/tornadoweb/tornado) 框架，封装了定时器、网页代码编辑器，支持热更
 
 --------
 
@@ -16,7 +16,7 @@ tornadoDemo是一个异步非阻塞的web框架，基于[tornado](https://github
 * psutil
 * pycryptodome
 * futures *(py2才需要)*
-* Linux上安装：pycryptodome  Windows上安装：pycryptodomex
+* Linux上安装：pycryptodome Windows上安装：pycryptodomex
 
 
 ## 安装
@@ -47,4 +47,3 @@ tornadoDemo是一个异步非阻塞的web框架，基于[tornado](https://github
 
    默认帐号密码都是admin
 
- :relaxed:
